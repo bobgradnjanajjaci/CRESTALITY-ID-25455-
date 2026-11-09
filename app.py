@@ -13,7 +13,7 @@ app = Flask(__name__)
 # 🔧 KONFIGURACIJA
 PANEL_URL = "https://crescitaly.com/api/v2"
 API_KEY = "6c89725ce16bf76801656f6dd7977e51"
-SERVICE_ID = 23574  # TikTok Custom Comments na SMMFrog (Min: 5)
+SERVICE_ID = 25455  # TikTok Custom Comments na SMMFrog (Min: 5)
 
 # 🔁 30 SPINTAX ŠABLONA
 SPINTAX_TEMPLATES = [
